@@ -18,6 +18,7 @@
 - [KLIFF](https://github.com/openkim/kliff): KIM-based Learning-Integrated Fitting Framework.
 - [NequIP](https://github.com/mir-group/nequip): An open-source code for building E(3)-equivariant interatomic potentials. 
 - [PyXtal FF](https://github.com/qzhu2017/pyxtal_ff): A Python package for Machine learning of interatomic force field. 
+- [REANN](https://github.com/zhangylch/REANN): A PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems.
 
 
 
