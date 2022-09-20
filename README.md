@@ -7,19 +7,27 @@
 ## Table of contents
 
 - [Software](#software)
+- [Other](#other)
 - [See Also](#see-also)
 
 
 ## Software
 
+- [DeepChem](https://github.com/deepchem/deepchem): Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology.
 - [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack): Deep Neural Networks for Atomistic Systems.  
 - [TorchANI](https://github.com/aiqm/torchani): Accurate Neural Network Potential on PyTorch.
 - [AmpTorch](https://github.com/ulissigroup/amptorch): Atomistic Machine-learning Package.
 - [KLIFF](https://github.com/openkim/kliff): KIM-based Learning-Integrated Fitting Framework.
 - [NequIP](https://github.com/mir-group/nequip): An open-source code for building E(3)-equivariant interatomic potentials. 
 - [PyXtal FF](https://github.com/qzhu2017/pyxtal_ff): A Python package for Machine learning of interatomic force field. 
+- [MLatom](http://mlatom.com/): A Package for Atomistic Simulations with Machine Learning.
 - [REANN](https://github.com/zhangylch/REANN): A PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems.
+- [ML4Chem](https://github.com/muammar/ml4chem): Machine Learning for Chemistry and Materials.
 
+
+## Other
+
+- [PYSEQM](https://github.com/lanl/PYSEQM): PyTorch-based Semi-Empirical Quantum Mechanics
 
 
 ## See Also
