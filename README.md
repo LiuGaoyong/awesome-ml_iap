@@ -19,15 +19,18 @@
 - [AmpTorch](https://github.com/ulissigroup/amptorch): Atomistic Machine-learning Package.
 - [KLIFF](https://github.com/openkim/kliff): KIM-based Learning-Integrated Fitting Framework.
 - [NequIP](https://github.com/mir-group/nequip): An open-source code for building E(3)-equivariant interatomic potentials. 
+- [OpenChem](https://github.com/Mariewelt/OpenChem): A deep learning toolkit for Computational Chemistry with PyTorch backend.
 - [PyXtal FF](https://github.com/qzhu2017/pyxtal_ff): A Python package for Machine learning of interatomic force field. 
 - [MLatom](http://mlatom.com/): A Package for Atomistic Simulations with Machine Learning.
 - [REANN](https://github.com/zhangylch/REANN): A PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems.
-- [ML4Chem](https://github.com/muammar/ml4chem): Machine Learning for Chemistry and Materials.
+- [ML4Chem](https://github.com/muammar/ml4chem): Machine Learning for Chemistry and Materials Science.
 
 
 ## Other
 
 - [PYSEQM](https://github.com/lanl/PYSEQM): PyTorch-based Semi-Empirical Quantum Mechanics
+- [DGL](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks.
+- [TorchDrug](https://torchdrug.ai/get_started): A powerful and flexible machine learning platform for drug discovery.
 
 
 ## See Also
