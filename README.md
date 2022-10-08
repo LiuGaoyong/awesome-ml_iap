@@ -25,6 +25,7 @@
 - [REANN](https://github.com/zhangylch/REANN): A PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems.
 - [ML4Chem](https://github.com/muammar/ml4chem): Machine Learning for Chemistry and Materials Science.
 - [SpookyNet](https://github.com/OUnke/SpookyNet): Learning force fields with electronic degrees of freedom and nonlocal effects. Paper [here](https://www.nature.com/articles/s41467-021-27504-0).
+- [megnet](https://github.com/materialsvirtuallab/megnet): Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals
 - [TensorMol](https://github.com/jparkhill/TensorMol): Tensorflow + Molecules = TensorMol.
 - [n2p2](https://github.com/CompPhysVienna/n2p2): A Neural Network Potential Package.
 - [TurboGAP](https://github.com/mcaroba/turbogap)
