@@ -29,6 +29,7 @@
 - [TensorMol](https://github.com/jparkhill/TensorMol): Tensorflow + Molecules = TensorMol.
 - [n2p2](https://github.com/CompPhysVienna/n2p2): A Neural Network Potential Package.
 - [TurboGAP](https://github.com/mcaroba/turbogap)
+- [MatMiner](https://github.com/hackingmaterials/matminer): Data mining for materials science
 
 
 ## Other
